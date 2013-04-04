@@ -25,6 +25,7 @@ GEM
 
 PLATFORMS
   ruby
+  x86-mingw32
 
 DEPENDENCIES
   box-api (>= 0.2.2)
